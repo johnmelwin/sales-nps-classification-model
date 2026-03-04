@@ -1,0 +1,19 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# R
+.Rhistory
+.Rdata
+.RData
+.Ruserdata
+.Rproj.user/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+~$*
+*.tmp
